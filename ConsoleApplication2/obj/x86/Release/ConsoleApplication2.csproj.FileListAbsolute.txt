@@ -1,0 +1,11 @@
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConstantContactBO.dll
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConstantContactUtility.dll
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConstantContactBO.pdb
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConstantContactBO.xml
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConstantContactUtility.pdb
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\bin\Release\ConstantContactUtility.xml
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.exe
+C:\Users\swallace\Desktop\constantcontact-Constant-Contact-Dot-Net-Wrapper-2abf4d8\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.pdb
